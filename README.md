@@ -1,4 +1,4 @@
-# WebAPI-Access-Token
+# Web API token based authentication
 
 Web API token based authentication.
 
